@@ -45,7 +45,7 @@ Principais Características
 
 ### Aqui estão alguns recursos úteis para aprender mais sobre Java:
 
-- ![Documentação Oficial do Java](https://docs.oracle.com/en/java/)
+- [Documentação Oficial do Java](https://docs.oracle.com/en/java/)
 
 ### Como Contribuir?
 
