@@ -68,3 +68,6 @@ Principais Características
 ## Conclusão
 
 Java continua a ser uma das linguagens mais populares e robustas para o desenvolvimento de software. Sua combinação de portabilidade, desempenho, e um ecossistema rico torna-a uma excelente escolha para construir aplicações modernas e escaláveis. Seja você um iniciante ou um desenvolvedor experiente, Java oferece as ferramentas e os recursos necessários para criar software de alta qualidade.
+
+## Autores
+- [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
