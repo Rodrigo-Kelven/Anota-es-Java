@@ -1,5 +1,7 @@
 
-# Anotações em Java
+# Anotações Java
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
+
 
 Este repositório é um espaço dedicado para armazenar anotações, práticas de exercícios e exemplos da linguagem de programação Java. Se você está começando a aprender Java ou deseja aprimorar suas habilidades, este repositório é o lugar certo para você!
 O que é Java?
