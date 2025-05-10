@@ -21,6 +21,11 @@ Principais Características
 
 - Bibliotecas Padrão: Java possui uma vasta biblioteca padrão, com funcionalidades para manipulação de arquivos, redes, estruturas de dados, criptografia, interfaces gráficas, entre outras.
 
+
+## Instalação do Java de forma automática
+    ./install_java.sh
+
+
 ## Casos de Uso
 
 ### Java é amplamente utilizado em diversas áreas, incluindo:
